@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/prober/Documents/projects/Flutter_Projects/share_data/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/prober/.gradle/caches/transforms-2/files-2.1/9f32b8df4a58c9f7a87b143186a9b420/jetified-core-1.9.3/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,55",
+                        "endOffsets": "109,165"
+                    }
+                }
+            ]
+        }
+    ]
+}

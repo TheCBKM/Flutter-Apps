@@ -1,0 +1,27 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.aeologic.adhoc.qr_utils" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->/home/prober/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/qr_utils-0.1.4/android/src/main/AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.CAMERA" />
+7-->/home/prober/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/qr_utils-0.1.4/android/src/main/AndroidManifest.xml:4:5-65
+7-->/home/prober/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/qr_utils-0.1.4/android/src/main/AndroidManifest.xml:4:22-62
+8    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+8-->/home/prober/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/qr_utils-0.1.4/android/src/main/AndroidManifest.xml:5:5-81
+8-->/home/prober/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/qr_utils-0.1.4/android/src/main/AndroidManifest.xml:5:22-78
+9
+10    <application>
+10-->/home/prober/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/qr_utils-0.1.4/android/src/main/AndroidManifest.xml:7:5-12:19
+11        <activity
+11-->/home/prober/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/qr_utils-0.1.4/android/src/main/AndroidManifest.xml:8:9-11:70
+12            android:name="com.aeologic.adhoc.qr_utils.activity.QRScannerActivity"
+12-->/home/prober/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/qr_utils-0.1.4/android/src/main/AndroidManifest.xml:9:13-55
+13            android:label="@string/qr_scanner"
+13-->/home/prober/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/qr_utils-0.1.4/android/src/main/AndroidManifest.xml:10:13-47
+14            android:theme="@style/AppTheme.NoActionBar.FullScreen" />
+14-->/home/prober/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/qr_utils-0.1.4/android/src/main/AndroidManifest.xml:11:13-67
+15    </application>
+16
+17</manifest>
